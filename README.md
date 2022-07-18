@@ -1,0 +1,2 @@
+# Project-Recommendation-Engine
+This project recommendation engine will suggest projects in computer science according to the domains selected and you can also filter the projects according to the difficulty level ( hard , medium and easy) and you can also get the breif description and software requirements for the projects. Finally students don't need to go anywhere to select their projects but they can go forward just by using this engine.
